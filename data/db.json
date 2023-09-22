@@ -1,0 +1,64 @@
+{
+  "todos": [
+    {
+      "task": "Kecamatan Padang Barat",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "task": "Kecamatan Padang Selatan",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "task": "Kecamatan Padang Timur",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "task": "Kecamatan Padang Utara",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "task": "Kecamatan Padang Utara Kota",
+      "complete": true,
+      "id": 5
+    },
+    {
+      "task": "Kecamatan Kuranji",
+      "complete": true,
+      "id": 6
+    },
+    {
+      "task": "Kecamatan Lubuk Begalung",
+      "complete": false,
+      "id": 7
+    },
+    {
+      "task": "Kecamatan Lubuk Kilangan",
+      "complete": true,
+      "id": 8
+    },
+    {
+      "task": "Kecamatan Nanggalo",
+      "complete": false,
+      "id": 9
+    },
+    {
+      "task": "Kecamatan Pauh",
+      "complete": true,
+      "id": 10
+    },
+    {
+      "task": "Kecamatan Koto Tangah",
+      "complete": false,
+      "id": 11
+    },
+    {
+      "task": "Kecamatan Bungus Teluk Kabung",
+      "complete": false,
+      "id": 12
+    }
+  ]
+}
